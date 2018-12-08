@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Dot plots, box plots, and distributions
+
+```yaml
+type: VideoExercise
+key: cf875444dd
+xp: 50
+```
+
+`@projector_key`
+535e4c449def04c6b4395fb82774a3aa
